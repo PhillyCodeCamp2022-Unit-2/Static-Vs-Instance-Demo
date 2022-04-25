@@ -13,6 +13,7 @@ namespace StaticVsInstanceMethods
 
         static void PrintString(string str)
         {
+            //Console console = new Console(); is not valid syntax
             Console.WriteLine(str);
         }
     }

@@ -6,5 +6,14 @@ namespace StaticVsInstanceMethods
 {
     internal class StaticMethods
     {
+        public static void Search()
+        {
+            // etc...
+        }
+
+        public static void FooBar()
+        {
+            // does something...
+        }
     }
 }
